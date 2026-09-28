@@ -1,7 +1,14 @@
-# **Мухин Егор**  
-  
-*Студент колледжа СПбИУЭ, увлеченный программированием и 3Д*
-___  
+<p align="center">
+  <img src="https://github.com/github.png" width="120" alt="Avatar"><br>
+  <h1>Мухин Егор</h1>
+  <i>Студент колледжа СПбИЭУ, увлеченный программированием и 3D-графикой</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Software_Dev-green?style=for-the-badge" alt="Focus">
+</p> 
+
 ## **Оглавление**  
 
   - [Обо мне](#обо-мне)  
