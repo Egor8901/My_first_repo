@@ -60,12 +60,17 @@ ___
 
 Так как я занимаюсь и 3Д будут подробные Конфигурации
 <details>
-<summary>Показать Конфигурации</summary>
+<summary>[Показать Конфигурации]</summary>
   
 Конфигурация ПК:  
 OC: Windows 11 Pro (x64)  
 CPU: AMD Ryzen 7 5800x (8- core Processor)  
 GPU: Nvidia 4070ti 12GB VRAM  
 RAM: 32GB  
+
+Программы:  
+Эмулятор: Git Bash  
+Тема VS Code: GitHub Dark Default  
+Для работы с 3Д: Blender 5.2
 </details>
 
