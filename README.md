@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://github.com/github.png" width="120" alt="Avatar"><br>
-  <h1>Мухин Егор</h1>
-  <i>Студент колледжа СПбИЭУ, увлеченный программированием и 3D-графикой</i>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Software_Dev-green?style=for-the-badge" alt="Focus">
-</p> 
+<img src="https://github.com/github.png" width="120">
+
+# Мухин Егор
+*Студент колледжа СПбИЭУ, увлеченный программированием и 3Д*
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+
+___
 
 ## **Оглавление**  
 
